@@ -1,0 +1,32 @@
+name: Generate Snake Contribution Grid
+on:
+  schedule:
+    # Se ejecuta todos los días a la medianoche UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      # Genera la animación de la serpiente (Snake) con tus contribuciones reales
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JNicoEP
+          outputs: |
+            dist/snake/github-contribution-grid-snake.svg?color_snake=#7aa2f7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7
+      # Publica la animación en la rama 'build'
+      - name: Deploy to build branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: build
+          publish_dir: ./dist
