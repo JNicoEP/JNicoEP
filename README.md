@@ -1,38 +1,50 @@
 <div align="center">
-  <!-- Header Banner Dinámico estilo Tokyo Night -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Nicol%C3%A1s%20Espinoza&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20%26%20Full%20Stack%20Developer&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
-  <!-- Efecto de escritura dinámica -->
-  <a href="https://github.com/MR-Addict">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=550&lines=%C2%A1Hola%2C+bienvenido%2Fa+a+mi+perfil!+%F0%9F%91%8B;Desarrollador+Frontend+%26+Full+Stack;Apasionado+por+la+innovaci%C3%B3n+y+el+c%C3%B3digo+limpio;Creando+interfaces+modernas+e+intuitivas" alt="Typing SVG" />
+
+  <h1>👋 ¡Hola, soy Nicolás Espinoza!</h1>
+  <p>
+     <b>Desarrollador Web</b> enfocado en el ecosistema <b>Frontend</b> y soluciones con <b>Bases de Datos</b>.
+  </p>
+
+  <!-- Efecto de escritura dinámica Tokyo Night -->
+  <a href="https://github.com/JNicoEP">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=620&lines=%C2%A1Bienvenido%2Fa+a+mi+perfil+de+GitHub!+%F0%9F%91%8B;Desarrollador+Frontend+%7C+React+%26+TypeScript;Bases+de+Datos+%7C+Supabase+%26+PostgreSQL;Dise%C3%B1o+UI%2FUX+moderno+con+Tailwind+CSS;Construyendo+soluciones+limpias+y+eficientes" alt="Typing SVG" />
   </a>
-  <br/>
+
+  <br/><br/>
+
   <!-- Redes y Contacto -->
   <p align="center">
     <a href="mailto:nespinoza912@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-nespinoza912%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.linkedin.com/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/MR-Addict" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/JNicoEP" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-JNicoEP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
+
 </div>
+
 ---
+
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+
 <div align="center">
   <h2>💫 Sobre mí</h2>
 </div>
-> 🔭 Actualmente enfocado en: **Desarrollo de aplicaciones web modernas con React y TypeScript**  
-> 🌱 Aprendiendo continuamente: **Arquitecturas escalables, Next.js y optimización frontend**  
-> 💡 Especialidad: **Diseño UI/UX intuitivo, sistemas responsivos y código limpio y mantenible**  
-> 💬 Pregúntame sobre: **React, TypeScript, Tailwind CSS, JavaScript y flujos de trabajo web**  
-> ⚡ Intereses: **Innovación tecnológica, diseño minimalista y experiencia de usuario (UX)**  
+
+> 🔭 Actualmente enfocado en: **Desarrollo de aplicaciones interactivas con React y TypeScript**  
+> 💾 Gestión de datos con: **Supabase y PostgreSQL** para backend y almacenamiento seguro  
+> 🎨 Estilos y maquetación: **Tailwind CSS**, diseño responsivo e interfaces limpias  
+> 💬 Pregúntame sobre: **React, TypeScript, Tailwind CSS, JavaScript, Supabase y SQL**  
+> ⚡ Intereses: **Diseño UI/UX, arquitectura de componentes y rendimiento web**  
+
 ---
+
 <div align="center">
   <h2>🛠️ Tecnologías & Herramientas</h2>
+
   <br/>
+
   <p><b>Frontend & UI</b></p>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -42,42 +54,56 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </p>
-  <p><b>Backend & Ecosistema</b></p>
+
+  <p><b>Base de Datos & Backend as a Service</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </p>
-  <p><b>Herramientas & Entornos</b></p>
+
+  <p><b>Herramientas & Entornos de Desarrollo</b></p>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </p>
+
 </div>
+
 ---
+
 <div align="center">
   <h2>📈 Estadísticas & Actividad de GitHub</h2>
 </div>
+
 <!-- grafico -->
-<div>
+
+<div align="center">
   <div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    
+    <!-- Lenguajes reales en los que programas en GitHub -->
+    <img height="165" alt="Top Languages JNicoEP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNicoEP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" />
+    <!-- Métricas reales de tu actividad en GitHub -->
+    <img height="165" alt="GitHub Stats JNicoEP" src="https://github-readme-stats.vercel.app/api?username=JNicoEP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
   </div>
   
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <br/>
+
+  <!-- Racha de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNicoEP&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Animación de serpiente de contribuciones (generada automáticamente para JNicoEP) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JNicoEP/JNicoEP/build/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JNicoEP/JNicoEP/build/snake/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/JNicoEP/JNicoEP/build/snake/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-Addict&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Addict&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" height="150" alt="GitHub Streak" />
-</div>
+
 ---
+
 <div align="center">
-  <p><i>🌟 Si te gusta mi trabajo o mis proyectos, ¡no dudes en dejar una estrella!</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=90&section=footer" width="100%" alt="Footer Wave" />
+  <p>⭐ <i>¡Gracias por visitar mi perfil! Si encuentras algún proyecto útil o interesante, te agradezco una estrella.</i> ⭐</p>
 </div>
