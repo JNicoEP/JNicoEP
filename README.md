@@ -105,5 +105,24 @@
 ---
 
 <div align="center">
+  <h2>🌐 Mi Portafolio Personal</h2>
+  <p><i>Haz clic en la imagen para explorar mis proyectos y diseño en vivo</i></p>
+
+  <!-- Tarjeta interactiva con vista previa del portafolio -->
+  <a href="https://TU_LINK_DE_PORTAFOLIO_AQUI" target="_blank" rel="noopener noreferrer">
+    <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Ftu-portafolio.com?w=850" alt="Preview de mi Portafolio" width="85%" style="border-radius: 12px; border: 1px solid #7aa2f7;" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Botón de acceso directo -->
+  <a href="[https://TU_LINK_DE_PORTAFOLIO_AQUI](https://portafolio-jnep.netlify.app/#)" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ver_Portafolio_en_Vivo-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Portafolio en Vivo" />
+  </a>
+</div>
+
+---
+
+<div align="center">
   <p>⭐ <i>¡Gracias por visitar mi perfil! Si encuentras algún proyecto útil o interesante, te agradezco una estrella.</i> ⭐</p>
 </div>
